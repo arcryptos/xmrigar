@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+ssl://rx-asia.unmineable.com:443 -u SLERF:Hj6W5AbUo51KudqNKes4fWJpE7aJxbPsF9o4HCSDDgwP.arcryptos2 -p x 
